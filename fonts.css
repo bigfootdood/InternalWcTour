@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "SONORAN";
+   src: url("fonts/SONORAN.woff") format("woff"), url("fonts/SONORAN.eot") format("embedded-opentype"), url("fonts/SONORAN.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
